@@ -1,0 +1,16 @@
+{
+  "name": "compass_project",
+  "version": "1.0.0",
+  "description": "My Boilerplate for compass, susy, breakpoint projects",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Denys Arkan",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0",
+    "gulp-connect": "^4.0.0",
+    "gulp-util": "^3.0.7"
+  }
+}
